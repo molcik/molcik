@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **[KOALA42](https://koala42.com)**
-- ⚙️ I use daily: `react.js` `node.js` `GCP`
+- ⚙️ I use: `react.js` `node.js` `docker` `GCP` `swift` `typescript` `java`
 - 💅 My other projects: [iOS Elements](https://ioselements.com), [filipmolcik.com](https://filipmolcik.com)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **scaling**, **preformance**, **optimizing**, **development**
