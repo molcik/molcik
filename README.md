@@ -9,4 +9,4 @@
 - 💅 My other projects: [filipmolcik.com](https://filipmolcik.com), [nulldog.com](https://nulldog.com)
 - 🌱 **Open Source** FTW
 - 💬 Ping me about **scaling**, **preformance**, **optimizing**, **development**
-- ⚡️ Fun facts: I can bark, NExT RFID + NFC Chip user, pastafarian priest
+- ⚡️ Fun facts: I can bark, NExT RFID + NFC implant user, pastafarian priest
