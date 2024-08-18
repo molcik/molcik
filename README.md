@@ -5,8 +5,8 @@
 ##### BIO
 
 - 🏢 I'm currently working at **[KOALA42](https://koala42.com)**
-- ⚙️ I use: `react.js` `node.js` `docker` `GCP` `swift` `typescript` `java`
+- ⚙️ I use: `node.js` `docker` `GCP` `swift` `typescript` `java` `react.js` `next.js`
 - 💅 My other projects: [filipmolcik.com](https://filipmolcik.com), [nulldog.com](https://nulldog.com)
-- 🌱 Learning all about **Open Source**
+- 🌱 **Open Source** FTW
 - 💬 Ping me about **scaling**, **preformance**, **optimizing**, **development**
-- ⚡️ Fun fact: I can bark
+- ⚡️ Fun facts: I can bark, NExT RFID + NFC Chip user, pastafarian priest
